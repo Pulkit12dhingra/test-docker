@@ -1,1 +1,1 @@
-web: gunicorn app:Drum-Kit/webapp
+web: gunicorn app:app
