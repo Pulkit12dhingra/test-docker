@@ -1,3 +1,5 @@
 gunicorn
 gevent
 flask
+uwsgi
+werkzeug
