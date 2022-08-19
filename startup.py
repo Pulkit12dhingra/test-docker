@@ -9,4 +9,4 @@ startup.py, that just imports the app object. You can then just specify
 startup:app in the Gunicorn command.
 """
 
-from Drum-kit.webapp import app
+from Drum-Kit.webapp import app
